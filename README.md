@@ -165,11 +165,11 @@ PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_
 
 
 ### Security
-I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation.
+I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation. Since 2024 DDD has been codesigned to try to reduce instances of these false positives, however some will always seem to corp up every now and again.These are of course false positives. Rest assured nothing nefarious is going on! 
 
-These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
+I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file/26b1ae2ea46f6237ddb2989e18dc5aea8806d3d21fcaada7982f02f7c4e8f140
+https://www.virustotal.com/gui/file/41b806c797d435a6bd1f5327abd27a6e7b085fe6e6524c176e54a2a7427f108e
 
 ------------
 
