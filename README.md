@@ -43,6 +43,14 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 ### **Release Notes**
 **Version:** 3.0<br>
 **Build:** 9209.15834<br>
+**SHA256:** 41B806C797D435A6BD1F5327ABD27A6E7B085FE6E6524C176E54A2A7427F108E<br>
+<i>
+- Update to internal codesigning certificate. No version number bump or any other changes in this release.
+</i><br><br>
+
+
+**Version:** 3.0<br>
+**Build:** 9209.15834<br>
 **SHA256:** 26B1AE2EA46F6237DDB2989E18DC5AEA8806D3D21FCAADA7982F02F7C4E8F140<br>
 <i>
 - Updated internal components to .NET 9.0
