@@ -1,9 +1,9 @@
 # DankDroneDownloader
 Giving DJI (and now, others!) the D ;)
 
-There are many tools in the drone community which allow you to flash firmware, however DJI, much like Apple, would rather you didnt do this and they remove older firmware to more tightly control what versions their users are running. This isnt something that sits comfortably with me, you should be allowed to choose what firmware runs on your own devices and as such, i present you with DankDroneDownloader, or DDD for short. DDD archives both old and new firmware & with compaible 3rd party flashing software, will allow you to flash this firmware to your drone, camera, remote control or other device.
+There are many tools in the drone community which allow you to flash firmware, however DJI, much like Apple, would rather you didnt do this and they remove older firmware to more tightly control what versions their users are running. This isnt something that sits comfortably with me, you should be allowed to choose what firmware runs on your own devices and as such, i present you with DankDroneDownloader, or DDD for short. DDD archives both old and new firmware & with compatible 3rd party flashing software, will allow you to flash this firmware to your drone, camera, remote control or other device.
 
-DDD is quite simply a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at https://www.dankdronedownloader.com . Of course we reccomend using the windows applicaion for the best features, but the choice is yours.
+DDD is quite simply a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at https://www.dankdronedownloader.com . Of course we recommend using the windows application for the best features, but the choice is yours.
 
 ------------
 ### ** Having connection issues?**
@@ -12,7 +12,7 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 ------------
 
-**NOTE: ** If you recieve the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
+**NOTE: ** If you receive the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
 
 ------------
 ### **DDD is Currently Supplying Files For:**
@@ -53,21 +53,24 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 </i><br><br>
 
 
+
 **Version:** 3.0<br>
 **Build:** 9209.15834<br>
 **SHA256:** 26B1AE2EA46F6237DDB2989E18DC5AEA8806D3D21FCAADA7982F02F7C4E8F140<br>
 <i>
 - Updated internal components to .NET 9.0
-- Thanks to Drone-Hacks DDD is now signed. This helps prevent false detectection of DDD by Antivirus apps and ensures that the app is safe and secure!
+- Thanks to Drone-Hacks DDD is now signed. This helps prevent false detection of DDD by Antivirus apps and ensures that the app is safe and secure!
 </i><br><br>
+
 
 
 **Version:** 3.0<br>
 **Build:** 9209.15834<br>
 **SHA256:** 12F93A15448E039BD049A6AD3501673FABD0C16F4BB29CB37490EDED7262410C<br>
 <i>
-- Thanks to Drone-Hacks DDD is now signed. This helps prevent false detectection of DDD by Antivirus apps and ensures that the app is safe and secure!
+- Thanks to Drone-Hacks DDD is now signed. This helps prevent false detection of DDD by Antivirus apps and ensures that the app is safe and secure!
 </i><br><br>
+
 
 
 **Version:** 3.0<br>
@@ -80,6 +83,7 @@ NOTE: Some AV's are detecting DDD as malicious. Please note this is a false posi
 </i><br><br>
 
 
+
 **Version:** 3.0<br>
 **Build:** 9160.26257<br>
 **SHA256:** 706865DFAB1D7903D5043AB10A4C9271AA550ACE06CC25121AD0CA908FFF8C1D<br>
@@ -88,6 +92,7 @@ NOTE: Some AV's are detecting DDD as malicious. Please note this is a false posi
 
 NOTE: Some AV's are detecting DDD as malicious. Please note this is a false positive. I am working on ways to fix this so that the app shows as being clear.
 </i><br><br>
+
 
 
 **Version:** 3.0<br>
@@ -100,6 +105,7 @@ NOTE: Some AV's are detecting DDD as malicious. Please note this is a false posi
 </i><br><br>
 
 
+
 **Version:** 3.0<br>
 **Build:** 9075.20909<br>
 **SHA256:** 5A8C568C74E4F08DD9C463A26012BEDAD629657B474A227295B067DA2C1612A2<br>
@@ -107,6 +113,7 @@ NOTE: Some AV's are detecting DDD as malicious. Please note this is a false posi
 - Resolved bug when changing themes too quickly causing "another instance is open" message
 - Changed how the firmware list is downloaded from the server to try to resolve issues with slow internet connections or PC's
 </i><br><br>
+
 
 
 **Version:** 3.0<br>
@@ -120,6 +127,7 @@ NOTE: Some AV's are detecting DDD as malicious. Please note this is a false posi
 </i><br><br>
 
 
+
 **Version:** 3.0<br>
 **Build:** 88776.22851<br>
 **SHA256:** DB1BB47B4E40B3CEC29901C90131F101F9441E39A1B5B60AB0AB2147C2201626<br>
@@ -128,6 +136,7 @@ NOTE: Some AV's are detecting DDD as malicious. Please note this is a false posi
 - Remove old code (as discussed above) to shrink EXE size further.
 - Reduce size of some DLL's
 </i><br><br>
+
 
 
 **Version:** 3.0<br>
@@ -140,6 +149,7 @@ As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect 
 </i><br><br>
 
 
+
 **Version:** 3.0<br>
 **Build:** 8666.1215<br>
 **SHA256:** D3845B0DEA2296880443FFF425701603E66857506E19B03C261B59899DC53EBB<br>
@@ -149,19 +159,20 @@ As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect 
 </i><br><br>
 
 
+
 **Version:** 3.0<br>
 **Build:** 8661.40529<br>
 **SHA256:** 6C9EA34F0F59941114E1C97E7ACDFCF8EA406C55D08FB3B5292180910419D02B<br>
 <i>
 - Massively reduced EXE size (80Mb to 20MB) by pre-packing some of the components inside the EXE.
-- Code cleanup to remove as much unecessary old code, assets etc as possible.
+- Code cleanup to remove as much unnecessary old code, assets etc as possible.
 </i><br><br>
 
 ------------
 
 
 ### Donations
-DDD welcomes donations. The servers dont cost a huge ammount to keep online, but do of course have a cost. There's also my time in sourcing and adding new firmware and of course app updates, web system updates and keeping track of new models. If you wanted to donate some cash for my time or server costs, this is of course much appreciated & your name will be shown in the app and on the website. Thank you very much for donating if you choose to do so! :)
+DDD welcomes donations. The servers dont cost a huge amount to keep online, but do of course have a cost. There's also my time in sourcing and adding new firmware and of course app updates, web system updates and keeping track of new models. If you wanted to donate some cash for my time or server costs, this is of course much appreciated & your name will be shown in the app and on the website. Thank you very much for donating if you choose to do so! :)
 
 PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KRR8TN42WWL88
 
@@ -169,7 +180,7 @@ PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_
 
 
 ### Security
-I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation. Since 2024 DDD has been codesigned to try to reduce instances of these false positives, however some will always seem to corp up every now and again.These are of course false positives. Rest assured nothing nefarious is going on! 
+I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation. Since 2024 DDD has been codesigned to try to reduce instances of these false positives, however some will always seem to crop up every now and again.These are of course false positives. Rest assured nothing nefarious is going on! 
 
 I will try to remember (i am human) to update the link below with results for the current app version.
 
@@ -177,7 +188,7 @@ https://www.virustotal.com/gui/file/41b806c797d435a6bd1f5327abd27a6e7b085fe6e652
 
 ------------
 
-### Compatability
+### Compatibility
 DDD has been tested to run on Windows 10 1607 upwards. You must be running Dot Net Framework 9.0 or higher however. If you are missing this, the app will tell you and offer to download it for you from Microsoft.
 
 ------------
